@@ -1,8 +1,6 @@
 <div align="center">
-  
-# 🌟 RAHUL SHAH 🌟
 ### `Full Stack Developer` | `AI Enthusiast` 🤖 | `Fitness Lover` 💪
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rahul%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
