@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rahul%20Shah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
-
 ## 🎯 Current Learning Journey
 <table align="center">
 <tr>
@@ -28,19 +27,12 @@
 </td>
 </tr>
 </table>
-
 <br>
-
 ## 📊 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrahul7&bg_color=1a1a1a&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%" />
-
 <br>
-
 ## 💭 Developer Wisdom
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming"/>
-
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
-
 </div>
